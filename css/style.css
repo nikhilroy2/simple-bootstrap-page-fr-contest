@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: #EFEFEF;
+}
+table#homepage_list_table td,
+table#homepage_list_table td{
+    background-color: #fff!important;
+}
+table#homepage_list_table .img_box{
+    width: 30px;
+    height: 30px;
+}
+table#homepage_list_table .img_box img{
+    width: 100%;
+    height: 100%;
+}
